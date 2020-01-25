@@ -1,0 +1,1 @@
+body,html{height:100%;background-color:gray}#drum-machine{width:95%;top:50%;transform:translateY(-50%)}#display{height:3rem}#display p{top:50%;transform:translateY(50%)}.drum-pad{height:3rem;line-height:3;cursor:pointer}@media (min-width:576px){#drum-machine{width:80%}}@media (min-width:768px){#drum-machine{width:65%}}@media (min-width:992px){#drum-machine{width:50%}}
